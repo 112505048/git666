@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("新建文件");
 
         System.out.println("第一次添加");
+
+        System.out.println("第二次添加");
     }
 }
